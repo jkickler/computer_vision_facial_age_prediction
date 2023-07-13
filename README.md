@@ -7,5 +7,6 @@
 - Several CNNs where trained, evaluated and hypertuned.
 
 # 2. Running the code
-- The complete code is split up in 6 jupyter notebooks, where the 6. notebook compares the best models.
-- TensorFlow with the Keras API was used to construct the CNNs.
+- The complete code is split up in 6 jupyter notebooks.
+- As deep learning framework TensorFlow with the Keras API was used.
+- The project was constructed with Google Colab, which is recommend to use for running the notebooks.
