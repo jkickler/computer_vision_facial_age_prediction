@@ -1,4 +1,4 @@
-# Facial age recognition - a SML regression problem
+# Facial age prediction - a SML regression problem
 
 # 1. Introduction
 - The project focuses on a supervised machine learning regression problem. 
