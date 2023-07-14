@@ -9,4 +9,4 @@
 # 2. Running the code
 - The complete code is split up in 6 jupyter notebooks.
 - As deep learning framework TensorFlow with the Keras API was used.
-- The project was constructed with Google Colab, which is recommend to use for running the notebooks.
+- The project was constructed with Google Colab, which is recommended to use for running the notebooks.
