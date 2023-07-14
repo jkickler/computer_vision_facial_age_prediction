@@ -1,5 +1,7 @@
 # Facial age prediction - a SML regression problem
 
+Welcome! This is a repository for solving a regression problem by using CNNs to predict the age of a person by a face image.
+
 # 1. Description
 - The project focuses on a supervised machine learning regression problem. 
 - The goal of the project is to predict the age of a person based on a face image.
